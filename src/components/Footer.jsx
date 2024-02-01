@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../public/images/logo.svg';
+import logo from '../img/images/logo.svg';
 
 import {
   FaTwitter,
